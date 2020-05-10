@@ -1,4 +1,4 @@
-Note: There is an Easy competiton every month, typically on the first week! It is the most
+Note: There is an Easy competition every month, typically on the first week! It is the most
 beginner friendly competition available on HackerEath, so please join! It's a good chance to improve your logic and skills. 
 
 This May Edition of the Easy competitons, I managed to achieve my best position in a HackerEarth competition ever!
