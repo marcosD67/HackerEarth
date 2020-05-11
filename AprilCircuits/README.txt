@@ -1,5 +1,5 @@
 *Note: The monthly circuits on HackerEarth are a week long and they have problems of different difficulties!
-If you really want to focus on one question and get a solution, this competition allows you to! You should join!
+If you really want to focus on one question and get a solution, this competition allows you to! (For more information, please visit the HackerEarth website and view the upcoming May Circuits).
 
 April's edition of Circuits had a good variety of problems! One of the first problems they dropped turned out to be
 one of the harder problems of the whole contest, which is unusual. 
