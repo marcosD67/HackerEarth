@@ -1,3 +1,5 @@
+#Result: 100/100
+#Solved: 0:21:21
 count = 0
 def isSafe(x, y, grid, visited):
         if 0 <= x < n and 0 <= y < m:
